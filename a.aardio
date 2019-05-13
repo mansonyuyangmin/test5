@@ -5,3 +5,8 @@ Git is free software.;
 
 var test ={"01";"02";"03"}
 console.varDump(test)
+
+for i =1;100;1 {
+
+console.log(i)
+}
