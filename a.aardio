@@ -1,3 +1,7 @@
 Git is a version control system.
-Git is free software.Git is a distributed version control system.
+Git is free software.
+Git is a distributed version control system.
 Git is free software.;
+
+var test ={"01";"02";"03"}
+console.varDump(test)
